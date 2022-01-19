@@ -1,0 +1,54 @@
+*{
+    padding:10px;
+    margin:10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header, nav, section, article, aside{
+display:inline-block;
+}
+
+body{
+ padding: 5px;
+ font-size:10px;
+ display: block;
+}
+
+
+.main {
+    display: block;
+}
+.encabezado {
+    padding: 20px;
+    margin: 20px;
+    background-color:grey;
+       
+}
+  
+.encabezado-top {
+    display: inline-block;
+    padding-top: 10px;
+    
+}
+
+.h2h{
+
+    display: contents;
+    color: red;
+}
+
+div {
+    padding: auto;
+    display: inline-block;
+    cursor: pointer;
+    background-color: #cccccc;
+}
+.btn1{
+    display: inline-flex;
+    color: blueviolet;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-radius: 1px solid #000000;
+    background-color:white;
+}  
+
+
